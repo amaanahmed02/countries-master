@@ -32,9 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/vishalbrdr/countries)
-- Live Site URL: [Github Pages](https://vishalbrdr.github.io/countries)
-
+- Live Site URL: [Github](https://symphonious-boba-be1eff.netlify.app/#/)
 ## My process
 
 ### Built with
