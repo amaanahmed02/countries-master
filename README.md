@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![](<./public/Screenshot%20(3).png>)
-![](<./public/Screenshot%20(1).png>)
+![](<./public/Screenshot%20(5).png>)
 
 ### Links
 
