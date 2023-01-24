@@ -26,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://i.ibb.co/5KZGMnB/localhost-3000-5.png)
-![](./public/Screenshot%20(1).png)
+![](<./public/Screenshot%20(3).png>)
+![](<./public/Screenshot%20(1).png>)
 
 ### Links
 
 - Live Site URL: [Github](https://symphonious-boba-be1eff.netlify.app/#/)
+
 ## My process
 
 ### Built with
