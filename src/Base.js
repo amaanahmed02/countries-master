@@ -6,10 +6,13 @@ const Base = ({ children }) => {
       <Header />
       {children}
       <div className="footer">
-        &copy; 2021{" "}
+        Coded by:
         <a href="https://www.linkedin.com/in/amaan-ahmed-a1aa98141/">
           Amaan Ahmed
         </a>
+        <span>Gaurav Kumar Jha</span>
+        <span>Kartik Gupta</span>
+        <div className="copy">&copy; 2023</div>
       </div>
     </>
   );

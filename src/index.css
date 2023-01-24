@@ -439,14 +439,19 @@ a {
 }
 
 .footer {
-  display: flex;
-  justify-content: center;
+  margin-inline: auto;
+  text-align: center;
   margin-block: 5rem;
   gap: 1rem;
   font-size: 1.2rem;
   align-self: end;
+  font-weight: 600;
 }
 
-.footer a {
+.footer a,
+.footer span,
+.footer div {
   font-weight: 600;
+  margin-inline: 1rem;
+  margin-top: 1rem;
 }
