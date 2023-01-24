@@ -6,7 +6,7 @@ const Base = ({ children }) => {
       <Header />
       {children}
       <div className="footer">
-        &copy; 2021{" "}
+        &copy; 2023{" "}
         <a href="https://www.linkedin.com/in/amaan-ahmed-a1aa98141/">
           Amaan Ahmed
         </a>
