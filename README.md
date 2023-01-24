@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![](https://i.ibb.co/5KZGMnB/localhost-3000-5.png)
-![](https://i.ibb.co/tZMHG7w/localhost-3000-India.png)
+![](./public/Screenshot%20(1).png)
 
 ### Links
 
